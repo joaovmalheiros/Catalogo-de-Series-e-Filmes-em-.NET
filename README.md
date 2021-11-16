@@ -13,8 +13,7 @@ Para executar o projeto, será necessário instalar os seguintes programas:
 Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num diretório de sua preferência:
 
 cd "diretorio de sua preferencia"
-git clone https://github.com/joaovmalheiros/Meus-Projetos/tree/main/Projetos%20C%23/TerrorFlix
-
+git clone https://github.com/joaovmalheiros/Catalogo-de-Series-e-Filmes-em-.NET
 # **Features**
 
 Diferentemente do projeto original, em que foi implementado apenas um cadastro de séries, desenvolvi algumas funcionalidades para que o usuário escolha se quer fazer alguma operação com filmes ou com séries.

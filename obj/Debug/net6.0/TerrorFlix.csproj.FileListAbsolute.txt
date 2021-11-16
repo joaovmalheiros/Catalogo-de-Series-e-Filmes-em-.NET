@@ -1,0 +1,30 @@
+C:\Users\joaov\Desktop\TerrorFlix\bin\Debug\net6.0\TerrorFlix.exe
+C:\Users\joaov\Desktop\TerrorFlix\bin\Debug\net6.0\TerrorFlix.deps.json
+C:\Users\joaov\Desktop\TerrorFlix\bin\Debug\net6.0\TerrorFlix.runtimeconfig.json
+C:\Users\joaov\Desktop\TerrorFlix\bin\Debug\net6.0\TerrorFlix.dll
+C:\Users\joaov\Desktop\TerrorFlix\bin\Debug\net6.0\ref\TerrorFlix.dll
+C:\Users\joaov\Desktop\TerrorFlix\bin\Debug\net6.0\TerrorFlix.pdb
+C:\Users\joaov\Desktop\TerrorFlix\obj\Debug\net6.0\TerrorFlix.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\TerrorFlix\obj\Debug\net6.0\TerrorFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\TerrorFlix\obj\Debug\net6.0\TerrorFlix.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\TerrorFlix\obj\Debug\net6.0\TerrorFlix.AssemblyInfo.cs
+C:\Users\joaov\Desktop\TerrorFlix\obj\Debug\net6.0\TerrorFlix.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\TerrorFlix\obj\Debug\net6.0\TerrorFlix.dll
+C:\Users\joaov\Desktop\TerrorFlix\obj\Debug\net6.0\ref\TerrorFlix.dll
+C:\Users\joaov\Desktop\TerrorFlix\obj\Debug\net6.0\TerrorFlix.pdb
+C:\Users\joaov\Desktop\TerrorFlix\obj\Debug\net6.0\TerrorFlix.genruntimeconfig.cache
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\bin\Debug\net6.0\TerrorFlix.exe
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\bin\Debug\net6.0\TerrorFlix.deps.json
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\bin\Debug\net6.0\TerrorFlix.runtimeconfig.json
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\bin\Debug\net6.0\TerrorFlix.dll
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\bin\Debug\net6.0\ref\TerrorFlix.dll
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\bin\Debug\net6.0\TerrorFlix.pdb
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\obj\Debug\net6.0\TerrorFlix.csproj.AssemblyReference.cache
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\obj\Debug\net6.0\TerrorFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\obj\Debug\net6.0\TerrorFlix.AssemblyInfoInputs.cache
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\obj\Debug\net6.0\TerrorFlix.AssemblyInfo.cs
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\obj\Debug\net6.0\TerrorFlix.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\obj\Debug\net6.0\TerrorFlix.dll
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\obj\Debug\net6.0\ref\TerrorFlix.dll
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\obj\Debug\net6.0\TerrorFlix.pdb
+C:\Users\joaov\Documents\Meus-Projetos\Projetos C#\TerrorFlix\obj\Debug\net6.0\TerrorFlix.genruntimeconfig.cache
